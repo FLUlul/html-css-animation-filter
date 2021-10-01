@@ -160,13 +160,13 @@
     animation-name: top-white-two;
     animation-duration: 1.5s;
     animation-timing-function: linear;
-    animation-iteration-count: infinite;
+    animation-iteration-count: 2;
 }
 .ex-13-button:hover  .ex-13-bottom-white {
     animation-name: bottom-white-two;
     animation-duration: 1.5s;
     animation-timing-function: linear;
-    animation-iteration-count: infinite;
+    animation-iteration-count: 2;
 }
 
 @keyframes top-white-two {
